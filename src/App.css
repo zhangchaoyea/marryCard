@@ -1,22 +1,31 @@
-.App {
-  text-align: center;
+/* @font-face {
+  font-family: 'myfont xian';
+  src: url('./static/FZJunHJW_Xian.TTF') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
-
-.App-logo {
-  height: 40vmin;
+@font-face {
+  font-family: 'myfont xi';
+  src: url('./static/FZJunHJW_Xi.TTF') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+@font-face {
+  font-family: 'myfont cu';
+  src: url('./static/FZJunHJW_cu.TTF') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+} */
+html,body {
+  font-family: 'Open Sans', sans-serif;
 }
+html,body,h1,h2,h3,h4,div,ul,li,p, span {
+  margin: 0;
+  padding: 0;
+  font-weight: 300;
 
-.App-link {
-  color: #09d3ac;
+  color: #7b7571;
+}
+ul, li {
+  list-style: none;
 }

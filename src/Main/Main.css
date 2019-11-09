@@ -1,0 +1,64 @@
+.header {
+  padding: 50px;
+  font-family: 'myfont xi', Verdana, Geneva, sans-serif;
+  background-image: url('../static/bg-1.jpg');
+  background-size: cover;
+  text-align: center;
+  line-height: 1.5;
+}
+.head_h3 {
+  font-size: 18px;
+  text-align: center;
+  color: #333;
+}
+.head_h3::before, .head_h3::after {
+  content: '';
+  display: inline-block;
+  margin: 0 8px;
+  width: 20px;
+  height: 2px;
+  border-top: 1px solid #f9667e;
+
+}
+
+.names {
+  text-align: center;
+}
+.names>li {
+  font-size: 32px;
+}
+
+.circle {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  font-size: 20px;
+  text-align: center;
+  font-weight: normal;
+  border-radius: 50%;
+  margin: 0px;
+  color: #FFF;
+  background: #f9667e;
+}
+
+
+.date {
+  padding-top: 16px;
+}
+.date_year{
+  font-size: 24px;
+}
+.date_month {
+  font-size: 28px;
+  border-bottom: 2px solid #f9667e;
+}
+.date_day {
+
+}
+.time {
+  padding-top: 8px;
+  font-size: 24px;
+}
+.sub_time {
+  font-size: 18px;
+}

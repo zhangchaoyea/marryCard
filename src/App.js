@@ -1,10 +1,10 @@
 import React from 'react';
 import './App.css';
-
+import Main from './Main'
 function App() {
   return (
     <div className="App">
-      <div>We are getting married</div>
+      <Main />
     </div>
   );
 }
