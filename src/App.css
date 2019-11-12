@@ -1,4 +1,4 @@
-/* @font-face {
+@font-face {
   font-family: 'myfont xian';
   src: url('./static/FZJunHJW_Xian.TTF') format('truetype');
   font-weight: normal;
@@ -12,19 +12,18 @@
 }
 @font-face {
   font-family: 'myfont cu';
-  src: url('./static/FZJunHJW_cu.TTF') format('truetype');
+  src: url('./static/FZJunHJW_Cu.TTF') format('truetype');
   font-weight: normal;
   font-style: normal;
-} */
+}
 html,body {
   font-family: 'Open Sans', sans-serif;
+  color: #7b7571;
+  font-weight: 300;
 }
 html,body,h1,h2,h3,h4,div,ul,li,p, span {
   margin: 0;
   padding: 0;
-  font-weight: 300;
-
-  color: #7b7571;
 }
 ul, li {
   list-style: none;

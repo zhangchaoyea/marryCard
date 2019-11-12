@@ -1,0 +1,30 @@
+.our_wrap {
+  background-color: #f4f4f4;
+  text-align: center;
+  padding: 15px;
+}
+
+.our_main {
+
+}
+
+.our_name {
+  font-size: 36px;
+  padding: 24px 0;
+  font-family: 'myfont cu', Verdana, Geneva, sans-serif;
+}
+
+.our_album {
+  width: 280px;
+  height: 280px;
+  border-radius: 50%;
+  border: 20px solid #ffffff;
+  background-position: 38% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+}
+
+.our_discript{
+  padding: 24px;
+}
