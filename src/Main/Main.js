@@ -5,7 +5,7 @@ const Main = React.forwardRef((props, ref) => (
   <header className="header">
     <h3 className="head_h3">我们结婚啦</h3>
     <ul className="names">
-        <li>张超</li>
+        <li>张 超</li>
         <li>
           <span className="circle">&amp;</span>
         </li>

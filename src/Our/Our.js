@@ -5,7 +5,7 @@ import AVATAR1 from '../static/UNADJUSTEDNONRAW_thumb_b5.jpg'
 import AVATAR2 from '../static/UNADJUSTEDNONRAW_thumb_c7.jpg'
 const datas = [{
   heapic: AVATAR2,
-  name: '张超',
+  name: '张 超',
   discript: '描述信息描述信息描述信息描述信息描述信息描述信息描述信息'
 }, {
   heapic: AVATAR1,
