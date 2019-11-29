@@ -3,6 +3,7 @@
   font-family: 'myfont xian', Verdana, Geneva, sans-serif;
   background-image: url('../static/bg-1.jpg');
   background-size: cover;
+  background-attachment: fixed;
   text-align: center;
   line-height: 1.5;
   color: #7b7571;

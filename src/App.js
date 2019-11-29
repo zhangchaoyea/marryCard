@@ -8,11 +8,10 @@ function App() {
   return (
     <div className="App">
       <Main />
-      <Our />
-      <Moment/>
+      <Our />asbdxa
+      <Moment />
       <Location />
     </div>
   );
 }
-
 export default App;
